@@ -10,7 +10,7 @@ Esse projeto foi desenvolvido com o intuito de testar e desenvolver os conteúdo
    
 - Vá até o ícone ```<> Code``` e selecione a opção ```Download ZIP```
 
-2. Depois de baixar o arquivo, você terá que extrair os arquivos.
+2. Depois de baixar o ZIP, você terá que extrair os arquivos que estão dentro da pasta.
  
 3. Por fim, basta clicar duas vezes no arquivo ```Chicken Trilhas.exe``` para começar a jogar.
    
